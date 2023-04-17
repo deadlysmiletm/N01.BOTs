@@ -1,15 +1,19 @@
-# N01.BOTs Demo Project
+# N01.BOTs Prototype Project
 
 <p align="center">
   <img src="N01.BOTs.png">
 </p>
 
-First demo game made using Unity, and first approach to game development with Unity and C#, developed has a study project when I was studing.
-Release: 2016.
+This is my first prototype game made using Unity and C#, which I created as a study project while I was learning game development. 
+
+<b>NOTE: Only available has a portfolio game and isn't recommended to be played has a complete game.</b>
+
+
+Developed: 2016.
 
 The game had a big influence on the retro game "Elevator Action" with some extra mechanics. At this point is very amateur and had some bugs, but I'm very proud this was my first attempt facing Unity to make a game alone.
 
-<b>Itch.io build download soon!</b>
+<b>[Itch.io build link](https://deadlysmile.itch.io/n01bots)</b>
 
 ---
 
